@@ -1,3 +1,3 @@
 # API for Man Photo poses
 
-Restricted to use for without permission.
+Restricted to use for without permission.# pic-for-hd-wallpapers
