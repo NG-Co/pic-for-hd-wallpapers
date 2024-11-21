@@ -35,6 +35,15 @@
           "keywords": ""
         }
       ]
+    },
+      "Car": {
+        "icon_path": "images/icons/car.jpg",
+        "items": [
+          {
+            "path": "images/abstract/car.jpg",
+            "keywords": ""
+          }
+        ]
     }
   }
 }
