@@ -26,6 +26,15 @@
           "keywords": ""
         }
       ]
+    },
+    "Nature": {
+      "icon_path": "images/icons/nature.jpg",
+      "items": [
+        {
+          "path": "images/abstract/nature.jpg",
+          "keywords": ""
+        }
+      ]
     }
   }
 }
