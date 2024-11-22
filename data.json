@@ -50,15 +50,31 @@
       ]
     }
     ,
-    "Nature": {
-      "icon_path": "images/icons/nature.jpg",
+    "Flowers": {
+      "icon_path": "images/icons/flowers.jpeg",
       "items": [
         {
-          "path": "images/Nature/nature.jpg",
+          "path": "images/Flowers/Flowers1.jpeg",
           "keywords": ""
         },
         {
-          "path": "images/Nature/2.jpg",
+          "path": "images/Flowers/Flowers2.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Flowers/Flowers3.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Flowers/Flowers4.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Flowers/Flowers5.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Flowers/Flowers6.jpeg",
           "keywords": ""
         }
       ]
