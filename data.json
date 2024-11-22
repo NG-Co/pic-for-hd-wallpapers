@@ -1,49 +1,86 @@
 {
   "backgrounds": [],
   "data": {
+    "Animals": {
+      "icon_path": "images/icons/Animals.jpg",
+      "items": [
+        {
+          "path": "images/Animals/Animals.jpg",
+          "keywords": ""
+        }
+      ]
+    },
     "Babies": {
-      "icon_path": "images/icons/babies.jpg",
+      "icon_path": "images/icons/Babies.jpg",
       "items": [
         {
-          "path": "images/babies/1.jpg",
+          "path": "images/Babies/Babies.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Babies/2.jpg",
           "keywords": ""
         }
       ]
     },
-    "Abstract": {
-      "icon_path": "images/icons/abstract.jpg",
+    "Couple": {
+      "icon_path": "images/icons/Couple.jpg",
       "items": [
         {
-          "path": "images/abstract/1.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/2.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/3.jpg",
+          "path": "images/nature/Couple.jpg",
           "keywords": ""
         }
       ]
-    },
+    }
+    ,
+    "Gods": {
+      "icon_path": "images/icons/Gods.jpg",
+      "items": [
+        {
+          "path": "images/Gods/Gods.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/2.jpg",
+          "keywords": ""
+        }
+      ]
+    }
+    ,
     "Nature": {
       "icon_path": "images/icons/nature.jpg",
       "items": [
         {
-          "path": "images/nature/nature.jpg",
+          "path": "images/Nature/nature.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Nature/2.jpg",
           "keywords": ""
         }
       ]
     },
-      "Car": {
-        "icon_path": "images/icons/car.jpg",
-        "items": [
-          {
-            "path": "images/abstract/car.jpg",
-            "keywords": ""
-          }
-        ]
+    "Quotes": {
+      "icon_path": "images/icons/Quotes.jpg",
+      "items": [
+        {
+          "path": "images/Quotes/Quotes.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Quotes/2.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Vehicles": {
+      "icon_path": "images/icons/Vehicles.jpg",
+      "items": [
+        {
+          "path": "images/Vehicles/Vehicles.jpg",
+          "keywords": ""
+        }
+      ]
     }
   }
 }
