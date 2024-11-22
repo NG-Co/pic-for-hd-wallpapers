@@ -1,47 +1,50 @@
 {
   "backgrounds": [],
   "data": {
-    "Animals": {
-      "icon_path": "images/icons/Animals.jpg",
+    "Anime": {
+      "icon_path": "images/icons/Anime.jpeg",
       "items": [
         {
-          "path": "images/Animals/Animals.jpg",
-          "keywords": ""
-        }
-      ]
-    },
-    "Babies": {
-      "icon_path": "images/icons/Babies.jpg",
-      "items": [
-        {
-          "path": "images/Babies/Babies.jpg",
+          "path": "images/Anime/jiraiya mountain.jpeg",
           "keywords": ""
         },
         {
-          "path": "images/Babies/2.jpg",
+          "path": "images/Anime/minato.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Anime/kakashi.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Anime/shikamaru.jpeg",
+          "keywords": ""
+        },
+    
+        {
+          "path": "images/Anime/itachiand.jpeg",
           "keywords": ""
         }
       ]
     },
-    "Couple": {
-      "icon_path": "images/icons/Couple.jpg",
-      "items": [
-        {
-          "path": "images/nature/Couple.jpg",
-          "keywords": ""
-        }
-      ]
-    }
-    ,
+    
     "Gods": {
-      "icon_path": "images/icons/Gods.jpg",
+      "icon_path": "images/icons/Gods.jpeg",
       "items": [
         {
-          "path": "images/Gods/Gods.jpg",
+          "path": "images/Gods/lordshiva.jpeg",
           "keywords": ""
         },
         {
-          "path": "images/Gods/2.jpg",
+          "path": "images/Gods/lordshiva1.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/lordshiva2.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/.jpg",
           "keywords": ""
         }
       ]
