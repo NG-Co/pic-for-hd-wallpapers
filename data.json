@@ -2,7 +2,7 @@
   "backgrounds": [],
   "data": {
     "Anime": {
-      "icon_path": "images/icons/Anime.jpeg",
+      "icon_path": "images/icons/anime.jpeg",
       "items": [
         {
           "path": "images/Anime/jiraiya mountain.jpeg",
@@ -22,7 +22,22 @@
         },
     
         {
-          "path": "images/Anime/itachiand.jpeg",
+          "path": "images/Anime/itachi.jpeg",
+          "keywords": ""
+        },
+    
+        {
+          "path": "images/Anime/akatsuki.jpeg",
+          "keywords": ""
+        },
+    
+        {
+          "path": "images/Anime/obitosad.jpeg",
+          "keywords": ""
+        },
+    
+        {
+          "path": "images/Anime/obito1.jpeg",
           "keywords": ""
         }
       ]
@@ -47,7 +62,7 @@
     }
     ,
     "Flowers": {
-      "icon_path": "images/icons/flowers.jpeg",
+      "icon_path": "images/icons/flower.jpeg",
       "items": [
         {
           "path": "images/Flowers/Flowers1.jpeg",
@@ -71,28 +86,6 @@
         },
         {
           "path": "images/Flowers/Flowers6.jpeg",
-          "keywords": ""
-        }
-      ]
-    },
-    "Quotes": {
-      "icon_path": "images/icons/Quotes.jpg",
-      "items": [
-        {
-          "path": "images/Quotes/Quotes.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/Quotes/2.jpg",
-          "keywords": ""
-        }
-      ]
-    },
-    "Vehicles": {
-      "icon_path": "images/icons/Vehicles.jpg",
-      "items": [
-        {
-          "path": "images/Vehicles/Vehicles.jpg",
           "keywords": ""
         }
       ]
