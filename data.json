@@ -98,8 +98,36 @@
         {
           "path": "images/Flowers/Flowers6.jpeg",
           "keywords": ""
-        }
+        } 
       ]
-    }
+    } , "Winter": {
+    "icon_path": "images/icons/winter.jpg",
+    "items": [
+        {
+            "path": "images/Winter/winter1.jpg",
+            "keywords": ""
+        },
+        {
+            "path": "images/Winter/winter2.jpg",
+            "keywords": ""
+        },
+        {
+            "path": "images/Winter/winter3.jpg",
+            "keywords": ""
+        },
+        {
+            "path": "images/Winter/winter4.jpg",
+            "keywords": ""
+        },
+        {
+            "path": "images/Winter/winter5.jpg",
+            "keywords": ""
+        },
+        {
+            "path": "images/Winter/winter6.jpg",
+            "keywords": ""
+        }
+    ]
   }
+  } 
 }
