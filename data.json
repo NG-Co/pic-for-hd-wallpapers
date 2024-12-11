@@ -101,7 +101,7 @@
         } 
       ]
     } , "Winter": {
-    "icon_path": "images/icons/winter.jpg",
+    "icon_path": "images/icons/Winter.jpg",
     "items": [
         {
             "path": "images/Winter/winter1.jpg",
