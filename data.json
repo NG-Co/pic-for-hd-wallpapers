@@ -32,6 +32,12 @@
         },
     
         {
+          "path": "images/Anime/akatsuki1.jpeg",
+          "keywords": ""
+        },
+    
+    
+        {
           "path": "images/Anime/obitosad.jpeg",
           "keywords": ""
         },
@@ -41,7 +47,39 @@
           "keywords": ""
         }
       ]
-    },
+    }, "Nature": {
+      "icon_path": "images/icons/Nature.jpeg",
+      "items": [
+          {
+              "path": "images/Nature/Nature1.jpeg",
+              "keywords": ""
+          },
+          {
+              "path": "images/Nature/Nature2.jpeg",
+              "keywords": ""
+          },
+          {
+              "path": "images/Nature/Nature3.jpeg",
+              "keywords": ""
+          },
+          {
+              "path": "images/Nature/Nature4.jpeg",
+              "keywords": ""
+          },
+          {
+              "path": "images/Nature/Nature5.jpeg",
+              "keywords": ""
+          },
+          {
+              "path": "images/Nature/Nature6.jpeg",
+              "keywords": ""
+          },
+          {
+              "path": "images/Nature/Nature7.jpeg",
+              "keywords": ""
+            }
+          ]
+        } ,
     
     "Gods": {
       "icon_path": "images/icons/Gods.jpeg",
@@ -130,15 +168,17 @@
       ]
     }
     ,
+
+
     "Flowers": {
       "icon_path": "images/icons/flower.jpeg",
       "items": [
-        
         {
           "path": "images/Flowers/Flowers0.jpeg",
           "keywords": ""
         },
         {
+          
           "path": "images/Flowers/Flowers1.jpeg",
           "keywords": ""
         },
@@ -190,40 +230,7 @@
             "path": "images/Winter/winter6.jpg",
             "keywords": ""
         }
-        ],"Nature": {
-          "icon_path": "images/icons/Nature.jpeg",
-          "items": [
-              {
-                  "path": "images/Nature/Nature1.jpeg",
-                  "keywords": ""
-              },
-              {
-                  "path": "images/Nature/Nature2.jpeg",
-                  "keywords": ""
-              },
-              {
-                  "path": "images/Nature/Nature3.jpeg",
-                  "keywords": ""
-              },
-              {
-                  "path": "images/Nature/Nature4.jpeg",
-                  "keywords": ""
-              },
-              {
-                  "path": "images/Nature/Nature5.jpeg",
-                  "keywords": ""
-              },
-              {
-                  "path": "images/Nature/Nature6.jpeg",
-                  "keywords": ""
-              },
-              {
-                  "path": "images/Nature/Nature7.jpeg",
-                  "keywords": ""
-                }
-             
-          ]
-        }
-        }
-      }
-    }
+    ]
+  }
+  } 
+}
