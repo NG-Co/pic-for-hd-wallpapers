@@ -32,12 +32,6 @@
         },
     
         {
-          "path": "images/Anime/akatsuki1.jpeg",
-          "keywords": ""
-        },
-    
-    
-        {
           "path": "images/Anime/obitosad.jpeg",
           "keywords": ""
         },
@@ -53,6 +47,19 @@
       "icon_path": "images/icons/Gods.jpeg",
       "items": [
         {
+          "path": "images/Gods/yeshodamata.jpeg",
+          "keywords": ""
+        },
+        {
+
+          "path": "images/Gods/krishna.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/lordshanuman.jpeg",
+          "keywords": ""
+        },
+        {
           "path": "images/Gods/lordshiva.jpeg",
           "keywords": ""
         },
@@ -61,11 +68,62 @@
           "keywords": ""
         },
         {
+          "path": "images/Gods/lordram.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/krishna0.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/krishna1.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/lordvishnu.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/lordhanuman.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/hanumanchanting.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/krishna2.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/krishna3.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/lordbaraha.jpeg",
+          "keywords": ""
+        },
+        {
           "path": "images/Gods/lordshiva2.jpeg",
           "keywords": ""
         },
         {
+          "path": "images/Gods/radhakrishna.jpeg",
+          "keywords": ""
+        },
+        {
           "path": "images/Gods/lordshiva3.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/lordhanuman2.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Gods/lordhanuman3.jpeg",
+          "keywords": ""
+        },{
+          "path": "images/Gods/lordnarayan.jpeg",
           "keywords": ""
         }
 
@@ -75,6 +133,11 @@
     "Flowers": {
       "icon_path": "images/icons/flower.jpeg",
       "items": [
+        
+        {
+          "path": "images/Flowers/Flowers0.jpeg",
+          "keywords": ""
+        },
         {
           "path": "images/Flowers/Flowers1.jpeg",
           "keywords": ""
@@ -127,7 +190,39 @@
             "path": "images/Winter/winter6.jpg",
             "keywords": ""
         }
-    ]
-  }
-  } 
-}
+        ],"Nature": {
+          "icon_path": "images/icons/Nature.jpeg",
+          "items": [
+              {
+                  "path": "images/Nature/Nature1.jpeg",
+                  "keywords": ""
+              },
+              {
+                  "path": "images/Nature/Nature2.jpeg",
+                  "keywords": ""
+              },
+              {
+                  "path": "images/Nature/Nature3.jpeg",
+                  "keywords": ""
+              },
+              {
+                  "path": "images/Nature/Nature4.jpeg",
+                  "keywords": ""
+              },
+              {
+                  "path": "images/Nature/Nature5.jpeg",
+                  "keywords": ""
+              },
+              {
+                  "path": "images/Nature/Nature6.jpeg",
+                  "keywords": ""
+              },
+              {
+                  "path": "images/Nature/Nature7.jpeg",
+                  "keywords": ""
+              }
+          ]
+      }   
+      }
+      }
+      }
