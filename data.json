@@ -80,7 +80,7 @@
             }
           ]
         } , "Quotes": {
-    "icon_path": "images/icons/quotes.png",
+    "icon_path": "images/icons/Quotes.png",
     "items": [
         {
             "path": "images/Quotes/quotes1.png",
