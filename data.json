@@ -4,6 +4,21 @@
     "Anime": {
       "icon_path": "images/icons/anime.jpeg",
       "items": [
+
+        {
+          "path": "images/Anime/akatsuki.jpeg",
+          "keywords": ""
+        },
+    
+        {
+          "path": "images/Anime/akatsuki1.jpeg",
+          "keywords": ""
+        },
+        {
+          "path": "images/Anime/obito1.jpeg",
+          "keywords": ""
+        },
+
         {
           "path": "images/Anime/jiraiya mountain.jpeg",
           "keywords": ""
@@ -14,36 +29,6 @@
         },
         {
           "path": "images/Anime/kakashi.jpeg",
-          "keywords": ""
-        },
-        {
-          "path": "images/Anime/shikamaru.jpeg",
-          "keywords": ""
-        },
-    
-        {
-          "path": "images/Anime/itachi.jpeg",
-          "keywords": ""
-        },
-    
-        {
-          "path": "images/Anime/akatsuki.jpeg",
-          "keywords": ""
-        },
-    
-        {
-          "path": "images/Anime/akatsuki1.jpeg",
-          "keywords": ""
-        },
-    
-    
-        {
-          "path": "images/Anime/obitosad.jpeg",
-          "keywords": ""
-        },
-    
-        {
-          "path": "images/Anime/obito1.jpeg",
           "keywords": ""
         }
       ]
