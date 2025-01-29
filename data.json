@@ -102,6 +102,10 @@
       "icon_path": "images/icons/Gods.jpeg",
       "items": [
         {
+          "path": "images/Gods/radha.png",
+          "keywords": ""
+        },
+        {
           "path": "images/Gods/yeshodamata.jpeg",
           "keywords": ""
         },
